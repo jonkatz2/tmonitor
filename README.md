@@ -1,2 +1,2 @@
 # temperatures
-[plot.png](plot.png)
+![plot.png](plot.png)
