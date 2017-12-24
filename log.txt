@@ -1,0 +1,35 @@
+[master 0135a3e] Automated commit on 2017-12-24 00:37:26 EST
+ Committer: Elliott <elliott@ElliottsComputer.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 23 files changed, 1129 insertions(+), 40397 deletions(-)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ delete mode 100644 20171219-214601.csv
+ delete mode 100644 20171219-215500.csv
+ delete mode 100644 20171219-223400.csv
+ delete mode 100644 20171219-223500.csv
+ delete mode 100644 20171219-224400.csv
+ delete mode 100644 20171219-230100.csv
+ delete mode 100644 20171220-000100.csv
+ delete mode 100644 20171220-010100.csv
+ delete mode 100644 20171220-020101.csv
+ delete mode 100644 20171220-030100.csv
+ delete mode 100644 20171220-040100.csv
+ delete mode 100644 20171220-050100.csv
+ delete mode 100644 20171220-060100.csv
+ delete mode 100644 20171220-070100.csv
+ delete mode 100644 20171220-080100.csv
+ rewrite log.txt (100%)
+ rewrite plot.png (97%)
+ create mode 100644 plotscript.R
+ rewrite screenlog.0 (99%)
