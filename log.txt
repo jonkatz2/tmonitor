@@ -58,3 +58,23 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100755 scripts/restart.sh
  create mode 100755 scripts/stopstart.sh
  create mode 100644 scripts/tempcron
+[master f282441] Automated commit on 2017-12-24 13:03:00 EST
+ Committer: Elliott <elliott@ElliottsComputer.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 180 insertions(+), 9 deletions(-)
+ rewrite .RData (100%)
+ delete mode 100644 20171224-102842.csv
+ delete mode 100644 20171224-103123.csv
+ rewrite plot.png (97%)
+ create mode 100644 screenlog.0
+ create mode 100644 scripts/.Rhistory
