@@ -33,3 +33,28 @@ After doing this, you may fix the identity used for this commit with:
  rewrite plot.png (97%)
  create mode 100644 plotscript.R
  rewrite screenlog.0 (99%)
+[master fc02376] Automated commit on 2017-12-24 10:31:23 EST
+ Committer: Elliott <elliott@ElliottsComputer.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 13 files changed, 710 insertions(+), 273 deletions(-)
+ create mode 100644 20171224-102802.csv
+ create mode 100644 20171224-102842.csv
+ create mode 100644 20171224-103123.csv
+ delete mode 100644 screenlog.0
+ create mode 100644 scripts/.DS_Store
+ create mode 100644 scripts/plotscript.Rout
+ create mode 100755 scripts/plotscript.sh
+ create mode 100755 scripts/pushtogit.sh
+ create mode 100755 scripts/restart.sh
+ create mode 100755 scripts/stopstart.sh
+ create mode 100644 scripts/tempcron

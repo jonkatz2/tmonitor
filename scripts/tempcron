@@ -1,5 +1,5 @@
 #minute hour day-of-month month day-of-week command
-1 */3 * * * /Users/elliott/Desktop/scripts/stopstart.sh
-2 */3 * * * /Users/elliott/Desktop/scripts/plotscript.sh
-3 */3 * * * /Users/elliott/Desktop/scripts/pushtogit.sh
-@reboot /Users/elliott/Desktop/scripts/restart.sh
+1 */3 * * * /Users/elliott/Desktop/tmonitor/scripts/stopstart.sh
+2 * * * * /Users/elliott/Desktop/tmonitor/scripts/plotscript.sh
+3 * * * * /Users/elliott/Desktop/tmonitor/scripts/pushtogit.sh
+@reboot /Users/elliott/Desktop/tmonitor/scripts/restart.sh
