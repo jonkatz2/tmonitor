@@ -1195,3 +1195,21 @@ After doing this, you may fix the identity used for this commit with:
  4 files changed, 76 insertions(+)
  rewrite .RData (100%)
  rewrite plot.png (97%)
+[master c18e344] Automated commit on 2017-12-27 09:03:00 EST
+ Committer: Elliott <elliott@ElliottsComputer.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 75 insertions(+), 121 deletions(-)
+ rewrite .RData (100%)
+ copy screenlog.0 => 20171227-090100.csv (66%)
+ rewrite plot.png (98%)
+ rewrite screenlog.0 (100%)
