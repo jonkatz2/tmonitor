@@ -4613,3 +4613,19 @@ After doing this, you may fix the identity used for this commit with:
  copy screenlog.0 => 20180104-210100.csv (66%)
  rewrite plot.png (97%)
  rewrite screenlog.0 (100%)
+[master 5dda31a] Automated commit on 2018-01-04 22:03:00 EST
+ Committer: Elliott <elliott@ElliottsComputer.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 78 insertions(+)
+ rewrite .RData (100%)
+ rewrite plot.png (98%)
